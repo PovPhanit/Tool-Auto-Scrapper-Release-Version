@@ -3,7 +3,7 @@
 welcome to Auto Scrapper with me
 - 👋 Hi, I’m @PovPhanit
 ---------------------------------------------
-**Version** => 4.5.0
+**Version => 4.5.0**
 - Fix activated license key
 
 ---------------------------------------------
