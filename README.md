@@ -4,8 +4,7 @@ welcome to Auto Scrapper with me
 - 👋 Hi, I’m @PovPhanit
 ---------------------------------------------
 **Version** => 4.5.0
-- Fix check reach page
-- Fix update load information
+- Fix activated license key
 
 ---------------------------------------------
 Contact me if you can't update version
